@@ -14,7 +14,7 @@ Simple Sentiment Analyzer 🧠📝  A beginner-friendly Python project that uses
 ## 🚀 Getting Started
 
 1. Clone the repo:
-git clone https://github.com/dumilanikonyani/sentiment-analyzer.git
+git clone https://github.com/dumilanikonyani/sentiment-analayzer.git
 
 2. Install dependencies
 pip install textblob
